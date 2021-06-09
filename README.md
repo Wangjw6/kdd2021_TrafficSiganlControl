@@ -4,5 +4,5 @@ Basic structure of [DGN](https://github.com/PKU-AI-Edge/DGN) is adopted.
 Modifcation includes: Double Q network, customized adjacency matrix, customized state and reward function for the problem
 
 The final result is:
-![result](G:\base\kdd2021\kdd2021_TrafficSiganlControl\log)
+![result](kdd2021_TrafficSiganlControl/log/reuslt.png)
  
