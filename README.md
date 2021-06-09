@@ -5,5 +5,5 @@ Modifcation includes: Double Q network, customized adjacency matrix, customized 
 
 The final result is:
 
-![result](log/reuslt.png)
+![result](https://github.com/Wangjw6/kdd2021_TrafficSiganlControl/blob/main/log/result.png)
  
